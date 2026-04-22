@@ -36,7 +36,7 @@ Hệ thống xử lý ảnh bất đồng bộ sử dụng **Node.js**, **Expres
 - **Body (JSON):**
   ```json
   {
-      "imageId": "PIC_123"
+      "imageId": "PIC_123" // Chạy thử mỗi lần 1 tên khác nhau PIC_124 để tránh lỗi spam
   }
   ```
 
